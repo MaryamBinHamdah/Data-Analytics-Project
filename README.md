@@ -1,7 +1,8 @@
 # 📊 Student Performance Analysis & Predictive Modeling
 
 <p align="center">
-  <img src="https://i.imgur.com/As8c2gA.png" alt="Project Banner" width="85%"/>
+  <img src="./assets/images/banner.png" alt="Project Banner" width="85%"/>
+
     
 
   <em>A complete data science project analyzing student performance and building predictive models to identify success factors.</em>
