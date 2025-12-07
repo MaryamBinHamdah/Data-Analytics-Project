@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="./assets/images/banner.png" alt="Project Banner" width="85%"/>
-
     
 
   <em>A complete data science project analyzing student performance and building predictive models to identify success factors.</em>
