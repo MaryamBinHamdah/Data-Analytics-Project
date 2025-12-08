@@ -79,9 +79,11 @@ We used unsupervised learning to group students into distinct performance segmen
 
 This project was a successful collaboration between:
 
+
 *   **Hessa Khalfan** ([@Heskal](https://github.com/Heskal ))
-*   **Maryam Ali**
+*   **Nourah Alghfeli** ([@NourahAlghfeli](https://github.com/NourahAlghfeli ))
+*   **Maryam BinHamdah** ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
 *   **Meera Mohamed**
-*   **Nourah Alghfeli**
+
 
 Our teamwork was essential in tackling the diverse challenges of this project, from initial data exploration to the final model deployment.
