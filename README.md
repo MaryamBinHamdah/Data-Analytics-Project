@@ -74,6 +74,18 @@ We used unsupervised learning to group students into distinct performance segmen
 *   **`reports/`**: This folder contains the final project report (`.docx`) and presentation (`.pdf`).
 
 ---
+## My Role and Contribution 
+1- Define the purpose of data analysis for the chosen dataset
+2- Identify and justify the type of programming used for data analysis
+3- Identify the type and purpose of the machine learning algorithm to be implemented for the chosen dataset
+4- Identify and justify the independent and dependent variables for the chosen dataset.
+5- Justify why you want to perform the descriptive analysis for the chosen dataset. 
+11- Perform the hypothesis test to find the correlation (Pearson and Spearman for numerical variable and chi-square test for categorical variable) between the independent variable and the dependent variable.
+12- Assess the performance of the dependent variable to know whether the sample is representative of the normal population by a one-sample t-test.
+15- Predict the value of the dependent variable from the different classifier such as Logistic Regression, KNN, Naïve-Bayes and Decision Tree.
+19- Explain the strategy for improving the system after viewing the cluster diagram.
+
+---
 
 ## 👥 The Team
 
